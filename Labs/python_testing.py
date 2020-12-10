@@ -6,6 +6,8 @@
 # author: B. Schoen-Phelan
 # date: 04-12-2020
 
+import
+
 class TypesAndStrings:
 
     def last_char(self, value):
