@@ -6,7 +6,7 @@
 # author: B. Schoen-Phelan
 # date: 04-12-2020
 
-import
+
 
 class TypesAndStrings:
 
@@ -29,5 +29,6 @@ class TypesAndStrings:
 
 
     def all_lower(self, value):
+        value = (str(value))
+        value.lower
         return value # issue here, should show up in testing
-    

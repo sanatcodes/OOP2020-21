@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5922eb6-50a2-4b5a-a71a-8b8391ca2d9e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Labs/python_testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Labs/python_testing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labs/test_sol.py" beforeDir="false" afterPath="$PROJECT_DIR$/Labs/test_sol.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,28 +23,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.test_sol">
-    <configuration name="lab_10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="OOP2020-21" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Labs" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Labs/lab_10.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.test_sol (1)">
     <configuration name="lab_registration_record" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="OOP2020-21" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -56,6 +37,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Labs/lab_registration_record.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python_testing (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Labs" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Labs/python_testing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,6 +108,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test_sol (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Labs" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Labs/test_sol.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test_sol" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,10 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test_sol" />
+        <item itemvalue="Python.test_sol (1)" />
+        <item itemvalue="Python.python_testing (1)" />
         <item itemvalue="Python.python_testing" />
+        <item itemvalue="Python.test_sol" />
         <item itemvalue="Python.python_testing_solution" />
-        <item itemvalue="Python.lab_10" />
       </list>
     </recent_temporary>
   </component>
@@ -156,64 +180,68 @@
       <screen x="0" y="25" width="1680" height="962" />
     </state>
     <state x="955" y="296" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1680.962@0.25.1680.962" timestamp="1606599394929" />
-    <state width="1654" height="155" key="GridCell.Tab.0.bottom" timestamp="1607560504991">
+    <state width="1654" height="303" key="GridCell.Tab.0.bottom" timestamp="1607617298316">
       <screen x="0" y="25" width="1680" height="965" />
     </state>
     <state width="666" height="243" key="GridCell.Tab.0.bottom/0.25.1680.960@0.25.1680.960" timestamp="1606612632143" />
     <state width="666" height="243" key="GridCell.Tab.0.bottom/0.25.1680.962@0.25.1680.962" timestamp="1606611555698" />
     <state width="587" height="242" key="GridCell.Tab.0.bottom/0.25.1680.964@0.25.1680.964" timestamp="1606617608031" />
-    <state width="1654" height="155" key="GridCell.Tab.0.bottom/0.25.1680.965@0.25.1680.965" timestamp="1607560504991" />
+    <state width="1654" height="303" key="GridCell.Tab.0.bottom/0.25.1680.965@0.25.1680.965" timestamp="1607617298316" />
     <state width="814" height="305" key="GridCell.Tab.0.bottom/0.25.1680.966@0.25.1680.966" timestamp="1607470193974" />
     <state width="814" height="243" key="GridCell.Tab.0.bottom/0.25.1680.969@0.25.1680.969" timestamp="1607439486949" />
     <state width="1256" height="243" key="GridCell.Tab.0.bottom/0.25.3440.1352@0.25.3440.1352" timestamp="1607442738908" />
-    <state width="1654" height="155" key="GridCell.Tab.0.center" timestamp="1607560504990">
+    <state width="1654" height="303" key="GridCell.Tab.0.center" timestamp="1607617298315">
       <screen x="0" y="25" width="1680" height="965" />
     </state>
     <state width="666" height="243" key="GridCell.Tab.0.center/0.25.1680.960@0.25.1680.960" timestamp="1606612632142" />
     <state width="666" height="243" key="GridCell.Tab.0.center/0.25.1680.962@0.25.1680.962" timestamp="1606611555697" />
     <state width="587" height="242" key="GridCell.Tab.0.center/0.25.1680.964@0.25.1680.964" timestamp="1606617608030" />
-    <state width="1654" height="155" key="GridCell.Tab.0.center/0.25.1680.965@0.25.1680.965" timestamp="1607560504990" />
+    <state width="1654" height="303" key="GridCell.Tab.0.center/0.25.1680.965@0.25.1680.965" timestamp="1607617298315" />
     <state width="814" height="305" key="GridCell.Tab.0.center/0.25.1680.966@0.25.1680.966" timestamp="1607470193973" />
     <state width="814" height="243" key="GridCell.Tab.0.center/0.25.1680.969@0.25.1680.969" timestamp="1607439486948" />
     <state width="1256" height="243" key="GridCell.Tab.0.center/0.25.3440.1352@0.25.3440.1352" timestamp="1607442738907" />
-    <state width="1654" height="155" key="GridCell.Tab.0.left" timestamp="1607560504989">
+    <state width="1654" height="303" key="GridCell.Tab.0.left" timestamp="1607617298314">
       <screen x="0" y="25" width="1680" height="965" />
     </state>
     <state width="666" height="243" key="GridCell.Tab.0.left/0.25.1680.960@0.25.1680.960" timestamp="1606612632142" />
     <state width="666" height="243" key="GridCell.Tab.0.left/0.25.1680.962@0.25.1680.962" timestamp="1606611555696" />
     <state width="587" height="242" key="GridCell.Tab.0.left/0.25.1680.964@0.25.1680.964" timestamp="1606617608030" />
-    <state width="1654" height="155" key="GridCell.Tab.0.left/0.25.1680.965@0.25.1680.965" timestamp="1607560504989" />
+    <state width="1654" height="303" key="GridCell.Tab.0.left/0.25.1680.965@0.25.1680.965" timestamp="1607617298314" />
     <state width="814" height="305" key="GridCell.Tab.0.left/0.25.1680.966@0.25.1680.966" timestamp="1607470193973" />
     <state width="814" height="243" key="GridCell.Tab.0.left/0.25.1680.969@0.25.1680.969" timestamp="1607439486947" />
     <state width="1256" height="243" key="GridCell.Tab.0.left/0.25.3440.1352@0.25.3440.1352" timestamp="1607442738906" />
-    <state width="1654" height="155" key="GridCell.Tab.0.right" timestamp="1607560504990">
+    <state width="1654" height="303" key="GridCell.Tab.0.right" timestamp="1607617298316">
       <screen x="0" y="25" width="1680" height="965" />
     </state>
     <state width="666" height="243" key="GridCell.Tab.0.right/0.25.1680.960@0.25.1680.960" timestamp="1606612632143" />
     <state width="666" height="243" key="GridCell.Tab.0.right/0.25.1680.962@0.25.1680.962" timestamp="1606611555697" />
     <state width="587" height="242" key="GridCell.Tab.0.right/0.25.1680.964@0.25.1680.964" timestamp="1606617608031" />
-    <state width="1654" height="155" key="GridCell.Tab.0.right/0.25.1680.965@0.25.1680.965" timestamp="1607560504990" />
+    <state width="1654" height="303" key="GridCell.Tab.0.right/0.25.1680.965@0.25.1680.965" timestamp="1607617298316" />
     <state width="814" height="305" key="GridCell.Tab.0.right/0.25.1680.966@0.25.1680.966" timestamp="1607470193974" />
     <state width="814" height="243" key="GridCell.Tab.0.right/0.25.1680.969@0.25.1680.969" timestamp="1607439486948" />
     <state width="1256" height="243" key="GridCell.Tab.0.right/0.25.3440.1352@0.25.3440.1352" timestamp="1607442738907" />
-    <state width="814" height="305" key="GridCell.Tab.1.bottom" timestamp="1607470193975">
-      <screen x="0" y="25" width="1680" height="966" />
+    <state width="1654" height="303" key="GridCell.Tab.1.bottom" timestamp="1607617298318">
+      <screen x="0" y="25" width="1680" height="965" />
     </state>
+    <state width="1654" height="303" key="GridCell.Tab.1.bottom/0.25.1680.965@0.25.1680.965" timestamp="1607617298318" />
     <state width="814" height="305" key="GridCell.Tab.1.bottom/0.25.1680.966@0.25.1680.966" timestamp="1607470193975" />
     <state width="814" height="305" key="GridCell.Tab.1.bottom/0.25.1680.969@0.25.1680.969" timestamp="1607438926791" />
-    <state width="814" height="305" key="GridCell.Tab.1.center" timestamp="1607470193975">
-      <screen x="0" y="25" width="1680" height="966" />
+    <state width="1654" height="303" key="GridCell.Tab.1.center" timestamp="1607617298317">
+      <screen x="0" y="25" width="1680" height="965" />
     </state>
+    <state width="1654" height="303" key="GridCell.Tab.1.center/0.25.1680.965@0.25.1680.965" timestamp="1607617298317" />
     <state width="814" height="305" key="GridCell.Tab.1.center/0.25.1680.966@0.25.1680.966" timestamp="1607470193975" />
     <state width="814" height="305" key="GridCell.Tab.1.center/0.25.1680.969@0.25.1680.969" timestamp="1607438926790" />
-    <state width="814" height="305" key="GridCell.Tab.1.left" timestamp="1607470193974">
-      <screen x="0" y="25" width="1680" height="966" />
+    <state width="1654" height="303" key="GridCell.Tab.1.left" timestamp="1607617298317">
+      <screen x="0" y="25" width="1680" height="965" />
     </state>
+    <state width="1654" height="303" key="GridCell.Tab.1.left/0.25.1680.965@0.25.1680.965" timestamp="1607617298316" />
     <state width="814" height="305" key="GridCell.Tab.1.left/0.25.1680.966@0.25.1680.966" timestamp="1607470193974" />
     <state width="814" height="305" key="GridCell.Tab.1.left/0.25.1680.969@0.25.1680.969" timestamp="1607438926789" />
-    <state width="814" height="305" key="GridCell.Tab.1.right" timestamp="1607470193975">
-      <screen x="0" y="25" width="1680" height="966" />
+    <state width="1654" height="303" key="GridCell.Tab.1.right" timestamp="1607617298317">
+      <screen x="0" y="25" width="1680" height="965" />
     </state>
+    <state width="1654" height="303" key="GridCell.Tab.1.right/0.25.1680.965@0.25.1680.965" timestamp="1607617298317" />
     <state width="814" height="305" key="GridCell.Tab.1.right/0.25.1680.966@0.25.1680.966" timestamp="1607470193975" />
     <state width="814" height="305" key="GridCell.Tab.1.right/0.25.1680.969@0.25.1680.969" timestamp="1607438926790" />
     <state x="479" y="54" key="SettingsEditor" timestamp="1606599290484">
